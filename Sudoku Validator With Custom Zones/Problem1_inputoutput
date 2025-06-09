@@ -1,0 +1,5 @@
+= RESTART: C:/Users/nandi/OneDrive/Desktop/Technical Coding Tasks(Girus)/Sudoku Validator with Custom Zones.py
+Test 1 - Valid board and zones: True
+Test 2 - Invalid custom zone: False
+Test 3 - Invalid row: False
+Test 4 - Invalid box: False
