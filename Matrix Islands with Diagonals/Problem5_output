@@ -1,0 +1,30 @@
+= RESTART: C:/Users/nandi/OneDrive/Desktop/Technical Coding Tasks(Girus)/Matrix Islands with Diagonals.py
+Matrix 1:
+1 0 0
+0 1 0
+0 0 1
+Number of islands (with diagonals): 1
+
+Matrix 2:
+1 1 0
+0 1 0
+0 0 1
+Number of islands (with diagonals): 1
+
+Matrix 3:
+0 0 0
+0 0 0
+0 0 0
+Number of islands (with diagonals): 0
+
+Matrix 4:
+1 1 1
+1 1 1
+1 1 1
+Number of islands (with diagonals): 1
+
+Matrix 5:
+1 0 1
+0 0 0
+1 0 1
+Number of islands (with diagonals): 4
