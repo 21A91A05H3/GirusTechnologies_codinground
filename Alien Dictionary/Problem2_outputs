@@ -1,0 +1,7 @@
+= RESTART: C:/Users/nandi/OneDrive/Desktop/Technical Coding Tasks(Girus)/Alien Dictionary.py
+Words: ['baa', 'abcd', 'abca', 'cab', 'cad']
+Graph edges:
+b -> a
+b -> d
+d -> a
+a -> c
