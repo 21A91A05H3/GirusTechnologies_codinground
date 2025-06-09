@@ -5,3 +5,4 @@ b -> a
 b -> d
 d -> a
 a -> c
+Topological Order (Valid Character Order): bdac
