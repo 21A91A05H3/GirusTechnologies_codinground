@@ -1,0 +1,14 @@
+= RESTART: C:/Users/nandi/OneDrive/Desktop/Technical Coding Tasks(Girus)/Knights and Portals.py
+Input grid:
+. . # .
+# . # .
+. . . #
+# # . .
+Output: 1
+
+Input grid:
+. # # .
+. . # #
+# . . .
+# # # .
+Output: 1
